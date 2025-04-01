@@ -98,8 +98,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.smianao.com"];
-pub const RS_PUB_KEY: &str = "eXc6xrnMrX83TxVuIEESm3rKvQJoUZCHAKFuS85YURI=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["8.148.67.106"];
+pub const RS_PUB_KEY: &str = "ZfMO0X1wYi4SSS+eBY9FydaMEdpHyIL6OhKk+nrxMi8=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
